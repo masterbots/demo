@@ -1,4 +1,4 @@
-const { text2voice } = require("nayan-apis-servers");
+const { text2voice } = require("imon-videos-downloader");
 const fs = require("fs");
 const path = require("path");
 
